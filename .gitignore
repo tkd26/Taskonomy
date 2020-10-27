@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+__pycache__
+data/
+logs/
+nohup/
+outputs/
+weights
+*.ipynb
+*.txt
+*.pkl
+*.out
+train.py
