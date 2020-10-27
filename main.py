@@ -2,6 +2,7 @@
 import os, sys
 import argparse
 os.environ['CUDA_VISIBLE_DEVICES'] = '0,1,2,3'
+# テストコメント
 
 # proxy
 os.environ["http_proxy"] = "http://proxy.uec.ac.jp:8080/"

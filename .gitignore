@@ -4,9 +4,17 @@ data/
 logs/
 nohup/
 outputs/
+<<<<<<< HEAD
 weights
+=======
+weights/
+>>>>>>> c5b4fc196b2ae0e6fed542485ab1a9775c913f85
 *.ipynb
 *.txt
 *.pkl
 *.out
+<<<<<<< HEAD
 train.py
+=======
+train.py
+>>>>>>> c5b4fc196b2ae0e6fed542485ab1a9775c913f85
