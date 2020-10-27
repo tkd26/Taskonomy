@@ -1,5 +1,0 @@
-・semseg
-
-・autoencoder
-python3.7 main.py --optim sgd2 --mode_model FNST_STL -b 128 --autoencoder
->>>EPOCH: 0272 | DATASET: autoencoder || TRAIN: 0.14089526236057281 || TEST: 0.1367505043745041 {'mse': tensor(0.0352)} || MAX: {'mse': tensor(0.0230)} ({'mse': 48}ep)
